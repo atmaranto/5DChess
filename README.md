@@ -17,18 +17,18 @@
 
 ## To-do
 
-[X] Implement regular chess rules
-[X] Robust chess piece/location selection system
-[X] Implement time traveling
-[X] Implement dimension hopping
-[X] Friendly/enemy piece previewing
-[X] Panning/zooming/movement
-[X] Make turn system more robust
-[ ] Figure out what's wrong with the knights
-[ ] Implement a win/lose/replay system
-[ ] Create some sort of AI system for the game
-[ ] Maybe a title screen?
-[ ] Multiplayer?
+ - [X] Implement regular chess rules
+ - [X] Robust chess piece/location selection system
+ - [X] Implement time traveling
+ - [X] Implement dimension hopping
+ - [X] Friendly/enemy piece previewing
+ - [X] Panning/zooming/movement
+ - [X] Make turn system more robust
+ - [ ] Figure out what's wrong with the knights
+ - [ ] Implement a win/lose/replay system
+ - [ ] Create some sort of AI system for the game
+ - [ ] Maybe a title screen?
+ - [ ] Multiplayer?
 
 ## Licensing
 
